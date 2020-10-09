@@ -1,1 +1,6 @@
-{ "name": "erin" }
+{
+"name": "Keepcase Test Pool",
+"description": "Good Luck, have fun. The Keepcase Test Pool.",
+"ticker": "KEEP",
+"homepage": "https://keepcase.github.io"
+}
